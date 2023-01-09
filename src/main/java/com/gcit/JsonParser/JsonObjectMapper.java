@@ -1,7 +1,6 @@
 package com.gcit.JsonParser;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.io.IOException;
 
 public class JsonObjectMapper {
